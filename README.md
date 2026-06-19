@@ -17,6 +17,8 @@ A Windows batch toolset integrating **batch processing** and **high-precision re
 
 **QQ:** 404 Not Found
 
+**中文版 (Chinese version)** 已在 [GitCode](https://gitcode.com/mfxq2l/audio-resampling-upsampling) 开源。
+
 ## 📖 Introduction
 
 > Elevate the mundane to the stars.
